@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CardView Latihan</string>
+
+    <string name="default_user_name">User Name</string>
+
+    <string name="label_main_menu">Main Menu</string>
+    <string name="label_review">Review</string>
+    <string name="label_network">Network</string>
+    <string name="label_plugins">Plugins</string>
+    <string name="label_apps">Apps</string>
+
+    <string name="header_guide">Need a guide?</string>
+    <string name="body_guide">We will give a directions to new user</string>
+    <string name="label_button_guide">Guide Me</string>
+</resources>
