@@ -11,4 +11,6 @@
     <color name="light_gray">#FFD3D3D3</color>
     <color name="pure_cyan">#FF00D9F8</color>
     <color name="light_cyan">#FF6FEDFF</color>
+
+    <color name="blue">#44E6C6</color>
 </resources>

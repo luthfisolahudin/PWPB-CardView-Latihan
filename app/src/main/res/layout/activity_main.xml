@@ -13,7 +13,7 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:layout_marginTop="-88dp"
+            android:layout_marginTop="-100dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/bgheader" />
@@ -234,7 +234,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="70dp"
+                    android:layout_marginHorizontal="60dp"
                     android:fontFamily="@font/mm"
                     android:gravity="center"
                     android:text="@string/body_guide"
