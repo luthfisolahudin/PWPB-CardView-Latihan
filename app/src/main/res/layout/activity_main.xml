@@ -13,9 +13,9 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:layout_marginTop="-100dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="-100dp"
             android:src="@drawable/bgheader" />
 
         <LinearLayout
@@ -247,9 +247,12 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:background="@drawable/bgbtnguide"
+                    android:fontFamily="@font/mm"
                     android:text="@string/label_button_guide"
+                    android:textAllCaps="false"
                     android:textSize="12sp"
-                    android:background="@drawable/bgbtnguide"/>
+                    android:textStyle="bold" />
 
 
             </LinearLayout>
