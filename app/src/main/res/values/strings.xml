@@ -2,6 +2,7 @@
     <string name="app_name">CardView Latihan</string>
 
     <string name="default_user_name">User Name</string>
+    <string name="default_currency">IDR Wallet</string>
 
     <string name="label_main_menu">Main Menu</string>
     <string name="label_review">Review</string>
